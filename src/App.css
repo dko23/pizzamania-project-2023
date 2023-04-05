@@ -1,0 +1,39 @@
+.mainbar{
+	background-color:#96270F;
+}
+.mainbar a{
+color: white;
+}
+.jumbotron{
+  background: url(images/orange\ pizza.jpg);
+  background-size: contain;
+  height: 300px;
+  color: aliceblue;
+ 
+  
+  
+  
+ 
+}
+
+.crossiant{
+  width: 18rem;
+}
+
+
+  .aboutbakery{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  }
+  .pasteries{
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+  }
+  footer{
+    background-color:#96270F;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+  }
+  footer p{
+    color: white;
+  }
